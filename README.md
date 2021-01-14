@@ -1,20 +1,22 @@
-#### Idea
+<h1 align="center">
+  Q&A
+</h1> 
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+## 💻 Project
 
-![](./idea.png);
+ - Learning ReactJS;
+ - A simple project to practice ReactJS.
+ 
+<p>&nbsp;&nbsp;</p>
 
-#### React Icons
+---
 
-[react icons](https://react-icons.github.io/react-icons/)
+## 🔥 Check it out!
+</br>
 
-```
-npm install react-icons --save
-```
+- [https://questions-and-answers-reactjs-app.netlify.app/](https://questions-and-answers-reactjs-app.netlify.app/)
+<p align="center">
+  <img width="800px" src="images/QaA.jpg" />
+</p>
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+<p>&nbsp;&nbsp;</p>
